@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: react-demo
-        image: testdemo880/react-docker-hub
+        image: sagarkakkalasworld/react-microk8s:latest
         ports:
         - containerPort: 80
