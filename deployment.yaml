@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: react-demo
-        image: sagarkakkalasworld/react-microk8s:latest
+        image: sra1tangeti/react-microk8s:latest
         ports:
         - containerPort: 80
